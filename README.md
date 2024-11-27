@@ -1,3 +1,16 @@
+# 👋 Howdy Hey, I'm Noah! :D 
+Welcome to my GitHub profile! I'm a passionate **full-stack developer** with a focus on creating clean, scalable, and user-friendly applications. From frontend designs to backend logic, I thrive on turning ideas into functional and innovative solutions.
+
+---
+
+## 🔧 **What I Do**
+- **Frontend Development**: Crafting responsive and interactive UIs with React, JavaScript, and Next.js.
+- **Backend Development**: Building robust APIs and server-side logic with Firebase, C#, and Node.js.
+- **Database Management**: Structuring and managing data with Firebase Realtime Database and SQL.
+- **Collaborative Projects**: Working with teams to deliver high-quality software solutions.
+
+---
+
 ## 🛠 **Tech Stack & Tools**
 
 ### 🖥 **Languages**
@@ -35,3 +48,33 @@
   <img src="https://img.shields.io/badge/Firebase%20Realtime%20Database-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Realtime Database"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
+
+
+---
+
+## 🚀 **Current Project**
+### 1. [**GiftSup.io**](https://gitsupio.netlify.app) 🎁  
+A wishlist app designed to simplify gift-giving by allowing users to create and share wishlists with friends and family.  
+
+
+---
+
+## 🌱 **What I'm Learning**
+- Advanced Firebase integrations  
+- Improving mobile-first design practices  
+- Exploring AI-based recommendations for user experiences  
+
+---
+
+## 📈 **GitHub Stats**
+![Noah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahcallen&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahcallen&layout=compact&theme=radical)
+
+---
+
+## 📬 **Let's Connect**
+- **LinkedIn**: [Noah Allen](https://www.linkedin.com/in/noah-allen)  
+
+---
+
+Feel free to reach out or explore my repositories — collaboration is always welcome! 🚀✨  
