@@ -1,3 +1,10 @@
+## 📈 **GitHub Stats**
+![Noah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahcallen&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahcallen&layout=compact&theme=radical)
+
+---
+
+
 # 👋 Howdy Hey, I'm Noah! :D 
 Welcome to my GitHub profile! I'm a passionate **full-stack developer** with a focus on creating clean, scalable, and user-friendly applications. From frontend designs to backend logic, I thrive on turning ideas into functional and innovative solutions.
 
@@ -61,14 +68,8 @@ A wishlist app designed to simplify gift-giving by allowing users to create and 
 
 ## 🌱 **What I'm Learning**
 - Advanced Firebase integrations  
-- Improving mobile-first design practices  
-- Exploring AI-based recommendations for user experiences  
-
----
-
-## 📈 **GitHub Stats**
-![Noah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noahcallen&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahcallen&layout=compact&theme=radical)
+- Frontend Languages, Frameworks, & Skills
+- Custom Backend APIs and Databases
 
 ---
 
