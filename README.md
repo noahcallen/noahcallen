@@ -74,7 +74,7 @@ A wishlist app designed to simplify gift-giving by allowing users to create and 
 ---
 
 ## 📬 **Let's Connect**
-- **LinkedIn**: [Noah Allen](https://www.linkedin.com/in/noah-allen)  
+- **LinkedIn**: [Noah Allen](https://www.linkedin.com/in/noahcurryallen/)  
 
 ---
 
