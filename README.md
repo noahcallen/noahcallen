@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm a passionate **full-stack developer** with a f
 ---
 
 ## 🚀 **Current Project**
-### 1. [**GiftSup.io**](https://gitsupio.netlify.app) 🎁  
+### 1. [**GiftSup.io**](giftsupio.netlify.app) 🎁  
 A wishlist app designed to simplify gift-giving by allowing users to create and share wishlists with friends and family.  
 
 
